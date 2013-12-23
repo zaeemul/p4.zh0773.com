@@ -12,5 +12,9 @@ Student Information System Salient Features:
 DATABASE - zhcom_student_information TESTING ACCOUNT : Username: myadmin Password: 12345678" 
 
 
+http://p4.zh0773.com/
+
+login credentials
+
 userid----------------  myadmin
 password--------------  12345678
